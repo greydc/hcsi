@@ -1,0 +1,37 @@
+1.  What natural and human-made features can maps show?
+
+Mountain, Trees, Rivers, Roads, Bridge, and for example here in Dubai I can see the man made palm on the map.
+
+
+2.  Explain how latitude and longitude can help you locate any place on Earth.
+
+Both latitude and longitude is an imaginary line created so that it will help us locate and travel  on almost any place we want on Earth.
+
+ 
+
+Latitude is a imaginary line that rounds the full horizontal 360 of the earth.
+
+Longitude is a imaginary line that rounds the vertical of the earth.
+
+ 
+
+this is very important for us because traveling will be less complicated, for example airplanes and ships, boats needed to travel to another country, they have to calculate the current latitude and longitude of their current location and what country they will arrive to.
+
+ 
+
+The latitude of Dubai International Airport, Al Garhoud, Dubai, the UAE is 25.252777, and the longitude is 55.364445. Dubai International Airport
+
+The latitude for Ninoy Aquino International Airport (MNL), Andrews Ave, Pasay, 1300 Metro Manila, Philippines is: 14.512274 and the longitude is: 121.016508
+
+ 
+
+The pilot flying from Dubai will then by calculate his location 25.252777, 55.364445 to fly through Philippines 14.512274, 21.016508,  without the imaginary lines latitude and longitude, it will be complicated for the pilot to bring the airplane to another country
+
+3.  Why do all flat maps distort the Earth’s surface?
+
+Because making a map of a curved surface into a flat map, causes distortions.
+
+
+4. Imagine that your family is on a long car trip.  What symbols on a road map would you pay the most attention to?  Explain.
+
+To the road, the number of the street we are driving at (street sign),  or are we going on the right bridge, is this a restricted area? So that I would know if we are still going on the right path of our destination or are we lost. 

@@ -1,0 +1,35 @@
+Directions:  Complete the following questions.
+
+1.  How do contour lines show elevation, slope, and relief?
+
+It depends on the number of the contour line, the contour lines will help us know the elevation by observing the number of the feet in the line. For example, if the contour lines are steep, then it could a higher region like mountain or hills.
+
+If the slope lines are farther apart, then the region is flat.
+
+Relief shows the difference between the highest point and the lowest point of the area, by subtracting the highest point elevation by the lowest point elevation, we will then by identify the relief of the area.
+
+
+
+
+2.  Why do contour lines never cross on a topographic map?
+
+Because every contour line represents another elevation.
+
+
+
+
+3.  How would you show the top of a hill, an area of vegetation, or a hiking trail on a topographic map?
+
+By the contour lines, I would be able to show how high the hill, mountain or area of vegetation is and what elevation of feet is the hiking trail located.
+
+ 
+4.  For an area with gently sloping hills and little relief, would you draw contour lines close together or far apart?  Explain why.
+
+I would draw contour lines close together because it should be steep and it is elevated at the top.
+
+
+5.  How would a road map and a topographic map of the same area differ?  What information would each provide?
+
+Both maps are important, but there are differences between these two maps.
+
+Road maps are mainly focused on roads, it is important when travelling to a road that you are unfamiliar with. While Topographic maps are mainly focused on the elevation of the area, it is also important because if you are unfamiliar with the area, you will be able to identify some features of the area such as the elevation,  shape or what the area looks like.

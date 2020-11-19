@@ -1,0 +1,94 @@
+Lesson 3
+
+Models of Earth:  Maps and Globes
+
+Student Assignment:  In today’s Lesson, you will consider maps and what makes a good map.  You will learn about the features of a map and different kinds of maps.  To begin the lesson, draw a map to guide someone from your house to a point of interest nearby.  
+
+Share your map with a partner.  Evaluate each other’s maps. Is it easy to understand?  Why or why not?  What may need to be added to make the map more useful?  After sharing feedback, revise your map to make it more useful.  
+
+Have a brief discussion with your instructor about this process.  What is important on a map?  What visual clues make a map easier to understand and use?  
+
+After discussing maps, complete today’s reading.  Remember to continue to use two column notes and word triangles as you gather new information – these should be kept in your Science Notebook.
+
+After you have finished the reading, complete the Lesson review activities.
+
+Models of Earth:  Maps and Globes
+
+You have just drawn a map of an area near your house.  This map is probably a rough model, showing important streets and landmarks.  This map is a flat model of a part of the Earth’s surface, showing features as shown from above.
+
+A globe also represents the Earth.  A globe is a sphere that shows the relative sizes and shapes of Earth’s land features and waters.  In today’s reading you will learn how maps and globes provide different types of information about the Earth’s surface.
+
+Land Features on Maps
+
+Relief maps show what the landscape of an area actually looks like.  A relief map shows how high or low each feature is on Earth.  Relief maps show three main types of land features – mountains, plains, and plateaus.  
+
+[Insert Graphic:  relief map of US with mountains, plateaus and plains labeled]
+
+ 
+
+
+Published map scale: 1:7,500,000
+
+1969. Relief published in The National Atlas of the United States of America, 1970, by the USGS.
+
+Mountains are higher than the land around them.  It is called a mountain range when there is a group of mountains together.  Several mountain ranges connected in a long chain is called a mountain belt.  Mountain belts can span several countries.
+
+Plateaus stand high above sea level, but unlike mountains, have fairly level surfaces.  They are often found near mountain ranges.  
+
+Plains are flat or rolling geological features.  In the United States, there are generally two types of plains.  There are coastal plains, which are near the eastern and southern shores, and interior plains, which are found in the center of the country.  The Great Plains cover a third of the country.
+
+Map Symbols and Scale
+
+Usually, when someone is using a map, it is a road or city map.  These maps provide information about human-made features and may include some natural features.  In order to use these maps, you need to know how to use the map legend and how to read a map scale.
+
+
+
+The map scale shows the relationship between distances on a map and the actual distances on the Earth’s surface.  Depending on the size of the area shown on the map, the scale may be in miles (kilometers) or yards (meters).  To find more detail, you need to find a map that covers a smaller area.  
+
+Map scales can be expressed in several ways:  a ratio, a bar, or equivalent units of distance.  A ratio of 1:25,000 means that 1 centimeter on the map represents 25,000 centimeters, or .25 kilometer, on Earth.  A bar scale gives you a picture that shows how much space on the map represents each unit of measure.  Equivalent-units scales tell you how many inches/centimeters on the map equal a mile or kilometer.
+
+The map legend, or key, is the chart that explains the meaning of the symbols found on the map.  There may be symbols for highways, parks, trails, or other points of interest.
+
+Most maps also include a compass to show which directions on the map are north, south, east, and west.  Generally, north points up on a map.
+
+Latitude and Longitude
+
+To help locate things on the Earth’s surface, people use latitude and longitude.  Latitude and longitude lines form an imaginary grid over the surface of the Earth.  This grid makes it possible for everyone to use the same system to locate objects and places on the planet.
+
+Latitude is based on an imaginary line that circles the Earth halfway between the north and south poles. This imaginary line is called the equator. The equator divides the Earth into the northern and southern hemispheres.  A hemisphere is one half of a sphere.  Latitude is measured in the degrees north or south of the equator.  The equator is 0°.  A degree is 1/360 of the distance around a full circle.  
+
+Latitude lines are all parallel to the equator and are evenly spaced between the equator and the poles.  Latitude lines are always labeled north or south, depending on their location in relation to the equator; this shows whether the location is in the northern or southern hemisphere.  The North Pole is 90°N, and the South Pole is 90°S.
+
+Longitude is based on an imaginary line that goes from the North Pole to the South Pole.  This line is called the Prime Meridian and goes through Greenwich, England.  The prime meridian divides the Earth into the Western and Eastern hemispheres.
+
+
+
+The distances east or west, in degrees, of the prime meridian are called longitude.  The prime meridian, like the equator, is 0°.  Longitude lines are labeled 0° to 180° west and 0° to 180° east.  If you understand longitude and latitude, you can find any spot on the Earth.
+
+GPS
+
+You may have heard of GPS for your car or on your cell phone.  GPS stands for Global Positioning System; it is a network of satellites that are used to find latitude, longitude, and elevation of any site.  There are 24 GPS satellites around the Earth.  These satellites send signals that can be picked up by receivers on the Earth’s surface.  The computer inside the receiver uses the satellite signal to help find any position on the Earth’s surface.
+
+Many people use GPS to help find their way when driving, hiking, or boating.
+
+Maps and Distortions
+
+Because the Earth is a sphere, the most accurate way to represent it is on a globe.  A globe would be pretty difficult to carry around and doesn’t show much detail, so people use flat maps to help them find their way. To represent the Earth’s curved surface on a flat map, a projection is used.  Making a map of a curved surface into a flat map; causes distortions.
+
+There are several different kinds of projections used to make maps.  A Mercator projection shows the Earth as if it were a large cylinder wrapped around the Earth.  On this type of map, longitude and latitude lines are straight and form rectangles.
+
+Mercator maps are useful for navigating because they show nearly the entire world on one flat map.  Because the curved latitude and longitude lines are straightened for this map, it distorts the areas far away from the equator.
+
+
+
+Mercator projection of the Earth.
+The farther you get from the equator on the map, the larger the distortion becomes. This causes land masses in the far north or far south to appear much larger than they actually are compared to the rest of the world.
+
+	Another type of projection is a conic projection.   This map is based on the shape of a cone.  Imagine wrapping a cone of paper around the globe.  The paper would only touch the surface at the middle latitudes between the equator and North Pole.   When this cone is flattened out, the latitude lines are curved.  The curved lines represent the curved surface of the Earth.   This map shows the true size and shape of some landmasses.
+Conic projections are most useful when mapping areas in the middle latitudes – such as the United States.  Landmasses near the poles or equator are distorted on this type of map.
+
+A planar projection is based on a circle.  Imagine that a circle of paper was laid on a part of the Earth’s surface and a map was made based on this.  As you move away from the center point, the landmasses on the map become distorted.
+
+Each type of projection is an attempt to solve the problem of representing a sphere on a flat surface.  Each type of map can show certain areas of the world correctly, but distorts other areas.
+
+Lesson Wrap Up:  Use a map to find the latitude and longitude of your hometown.

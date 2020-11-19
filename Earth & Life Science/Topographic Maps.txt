@@ -1,0 +1,52 @@
+Lesson 4
+
+Topographic Maps
+
+Student Assignment To begin today’s Lesson, use the following procedure to make a map of your knuckles.
+Procedure
+
+1. Hold your fist closed with your knuckles up.  (Choose the hand that you do not write with).
+
+2. Draw a small circle on your first knuckle.  Draw three more circles around the first circle.  Make sure that the circles are equal distances apart.
+
+3. Flatten out your hand.  Observe what happens.  
+
+4. Write down your observations in your Science Notebook.  How does the height of your knuckles change when you clench your fist and then flatten out your hand  What do you think the circles represent
+
+After you have completed this activity, have a discussion with your instructor about their observations. This activity was meant to begin to acquaint you with the concept of topography. In today’s Lesson, you will be learning about topography and how to understand topographic maps.
+
+Remember to use two column notes and word triangles to record new ideas and vocabulary as you read.
+
+After you have finished today’s reading, complete the Lesson review activities.
+
+Topographic Maps
+
+Have you ever hiked on a nature trail or in the mountains  Imagine that you are getting ready to take a hike through the state park and want to be prepared for anything that you might encounter.  How will you know if you need to climb hills or cross streams  You will need to know about the topography of the land to answer these questions.
+
+Topography is the shape, or features, of the land. Topographic features can be natural features, such as mountains, rivers, or plateaus, or human-made, such as roads, bridges, and dams.  To display these features you need a topographic map.  A topographic map is a flat map that uses lines to show the Earth’s surface features.  These maps show distance, as well as, elevation.  These numbers may be given in feet or meters.
+
+
+
+Look at the map above, notice the wiggly lines  These lines are called contour lines and these lines show the elevation, slope, and relief of an area.  The elevation of a place is how high above sea level it is. The numbers on the contour lines show the elevations of different points.  
+
+The slope of an area is how steep it is.  The distance between the contour lines will tell you how steep an area is; the farther apart the lines, the more gradual the slope.  A steep area has contour lines that are closer together.
+
+Relief is the difference between the highest point and lowest point of an area.  If you find the elevation of the highest point of an area and then subtract the lowest elevation, you have just measured the relief of the area.
+
+Contour Lines
+
+The contour lines on a map help you to visualize what the area actually looks like.  There are several facts about contour lines that can serve as rules to help you read a topographic map.
+
+• Contour lines never cross. Contour lines never cross because each line represents a different elevation.
+
+• Circles show highest and lowest points. Contour lines form closed circles around mountaintops, hilltops, and the centers of depressions in the land (sunken areas in the ground).  Often, the elevation of a mountain or hill is written in feet or meters in the center of the circle.
+
+• Contour interval is always the same on a map.  The contour interval is the difference in elevation from one contour line to the next.  For example, if the contour interval on a map was 25 feet, then the difference in elevation from one circle to the next is 25 feet.  Contour intervals can differ from one map to the next, but the interval always remains the same on each individual map.
+
+• Index contour lines mark elevations.  On a topographic map, you will notice that there are contour lines that are darker than the others. These darker lines are called index contour lines and often have numbers written on the line. These numbers tell you the elevation of the land at that contour line. These lines help you to calculate the elevation of any contour line on the map. To do this, count the number of lines above or below the index line and multiply by the contour index. For example, if you want to find the elevation of the top of a hill on a map with a contour index of 25 feet, you would count the number of lines between the index line and the top of the hill. (Let’s say this is 5 lines for this example.)  To find the elevation of the top of the hill, you need to multiply the number of lines (5) by the contour index (25) and then add to the number on the index line (for this example, use 100).  So the elevation of our hill is 5 (lines) x 25 feet (contour interval) = 125 feet + 100 feet (the index line from this example).  Our hill’s elevation is 225 feet.
+
+Topographic maps also contain many different symbols for natural and human-made features.  The United States Geological Survey (USGS) has created a list of symbols to make reading these maps easier.  On the next page you will see several common symbols
+
+
+
+Lesson Wrap Up  When might a topographic map be useful to you  Think of a couple examples and share with your instructor.
